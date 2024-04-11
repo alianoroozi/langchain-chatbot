@@ -1,0 +1,8 @@
+__pycache__
+.env
+*.pyc
+*.pyo
+.ipynb_checkpoints
+venv
+build
+dist
